@@ -63,7 +63,8 @@ function PolicyCard({ policy, policyTypes }) {
                         </div>
                         {/* Show the save button only when the menu is open */}
                         {menuOpen && (
-                            <div className="flex mt-6">
+                            // flex block to make list append vertically.  flex-row is default
+                            <div className="flex-block mt-6">
                                 <button
                                     className="rounded-md hover:opacity-50 hover:scale-105 bg-red-500 text-xs text-white px-2 py-1 mt-2 ml-2 mb-2"
                                     onClick={() => toggleEditMenu()}
