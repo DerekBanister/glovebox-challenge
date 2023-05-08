@@ -2,6 +2,8 @@
 
 [Finished Challenge](https://derekbanister.github.io/glovebox-challenge/)
 
+[Wireframing done here](https://www.figma.com/file/QrjxLuFw4TDWVYNsaBc3VN/Glovebox-Challenge?type=design&node-id=0-1&t=uRSQuEkynOVaao0x-0)
+
 ![Screenshot](./src/logo/challenge.png)
 
 ## Instructions
