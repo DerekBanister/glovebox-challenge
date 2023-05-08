@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/glovebox-challenge/static/css/main.fb60e01a.css",
-    "main.js": "/glovebox-challenge/static/js/main.e9073f31.js",
+    "main.css": "/glovebox-challenge/static/css/main.5f5dc308.css",
+    "main.js": "/glovebox-challenge/static/js/main.58448c53.js",
     "index.html": "/glovebox-challenge/index.html",
-    "main.fb60e01a.css.map": "/glovebox-challenge/static/css/main.fb60e01a.css.map",
-    "main.e9073f31.js.map": "/glovebox-challenge/static/js/main.e9073f31.js.map"
+    "main.5f5dc308.css.map": "/glovebox-challenge/static/css/main.5f5dc308.css.map",
+    "main.58448c53.js.map": "/glovebox-challenge/static/js/main.58448c53.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb60e01a.css",
-    "static/js/main.e9073f31.js"
+    "static/css/main.5f5dc308.css",
+    "static/js/main.58448c53.js"
   ]
 }
