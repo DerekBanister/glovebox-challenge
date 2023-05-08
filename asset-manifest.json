@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glovebox-challenge/static/css/main.fb60e01a.css",
+    "main.js": "/glovebox-challenge/static/js/main.d4c5ac63.js",
+    "index.html": "/glovebox-challenge/index.html",
+    "main.fb60e01a.css.map": "/glovebox-challenge/static/css/main.fb60e01a.css.map",
+    "main.d4c5ac63.js.map": "/glovebox-challenge/static/js/main.d4c5ac63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb60e01a.css",
+    "static/js/main.d4c5ac63.js"
+  ]
+}
