@@ -2,6 +2,8 @@
 
 [Finished Challenge](https://derekbanister.github.io/glovebox-challenge/)
 
+![Screenshot](./src/logo/challenge.png)
+
 ## Instructions
 
 Fork this repo and add the following functionality to this React App. Once you are finished, send us a link to your fork.
