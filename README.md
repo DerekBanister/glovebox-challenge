@@ -4,8 +4,6 @@
 
 [Wireframing done here](https://www.figma.com/file/QrjxLuFw4TDWVYNsaBc3VN/Glovebox-Challenge?type=design&node-id=0-1&t=uRSQuEkynOVaao0x-0)
 
-![Screenshot](./src/logo/challenge.png)
-
 ## Instructions
 
 Fork this repo and add the following functionality to this React App. Once you are finished, send us a link to your fork.
